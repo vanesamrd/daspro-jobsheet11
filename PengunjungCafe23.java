@@ -12,4 +12,12 @@ public class PengunjungCafe23 {
             //System.out.println("- " + namaPengunjung[i]);
         //}
     }
+    //CONTOH SOAL NO.3
+    //public void cetakAngka(String pesan, int... angka) {
+        //System.out.Println(pesan);
+        //for (int num : angka) {
+            //System.out.println(num);
+        //}
+    //}
+    //printAngka("Daftar Angka:" , 1, 2, 3, 4, 5);
 }
